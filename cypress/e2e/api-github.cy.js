@@ -1,5 +1,5 @@
-const token = "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 "; // Substitua pelo seu token de acesso pessoal
-const username = "ElisamaSilva"; // Substitua pelo seu nome de usuário
+const token = "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"; 
+const username = "ElisamaSilva"; 
 let repoName = "DSFQA" + Math.random().toString(36).substring(2, 10);
 
 describe("Testes API do GitHub", () => {
