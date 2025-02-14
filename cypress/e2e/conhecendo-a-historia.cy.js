@@ -1,5 +1,5 @@
-describe("Teste Conhecenco a História da NexDom", () => {
-  it("Deve exibir resultados para um serviço válido", () => {
+describe("Teste Conhecendo a História da NexDom", () => {
+  it("Deve mostrar um pagina contando a história da empresa", () => {
     cy.visit("https://nexdom.tec.br");
     cy.get('.elementor-element-267681a').click();
     cy.get('.elementor-element-22ee8c0 > .elementor-widget-container > .elementor-button-wrapper > .elementor-button').click();

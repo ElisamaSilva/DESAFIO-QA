@@ -3,4 +3,4 @@
     When preencho os campos obrigatórios e não obrigatórios
     And marco o checkbox de aceite
     And clico no botão de Enviar
-    Then apresentar uma mensagem de confirmação.
+    Then o sistema deve apresentar uma mensagem de confirmação.

@@ -1,5 +1,5 @@
 ## Desafio QA
-Foi utilizado o prório VScode para a criação dos Cenários de teste e demais fluxos, a fim de manter todas as dependencias do desafio em apenas um local.
+Foi utilizado o prório VScode para a criação dos Cenários de teste e demais fluxos a fim de manter todas as dependencias do desafio em apenas um local.
 
 ## Instruções para download, configuração e execução dos testes
 1. Acesse o projeto atráves do link: https://github.com/ElisamaSilva/DESAFIO-QA
