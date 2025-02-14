@@ -1,0 +1,16 @@
+{
+  "name": "desafio-qa-main",
+  "version": "1.0.0",
+  "description": "## Desafio QA - Testes Automatizados Como rodar os testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.3",
+    "dotenv": "^16.4.7"
+  }
+}
